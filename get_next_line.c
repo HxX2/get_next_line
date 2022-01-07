@@ -6,8 +6,10 @@
 /*   By: zlafou <zlafou@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/01/07 14:35:50 by zlafou            #+#    #+#             */
-/*   Updated: 2022/01/07 15:40:13 by zlafou           ###   ########.fr       */
+/*   Updated: 2022/01/07 20:36:58 by zlafou           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
+
+#include "get_next_line.h"
 
 char	*get_next_line(int fd)
