@@ -1,0 +1,13 @@
+#-------------------------#
+#   Getnextline Ignores   #
+#-------------------------#
+
+# vscode
+.vscode
+
+# make
+a.out
+*.o
+
+# debugger
+file
